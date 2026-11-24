@@ -1,0 +1,11 @@
+node_modules
+
+# Arquivos do Claude
+CLAUDE.md
+CLAUDE.local.md
+.claude/
+
+# Enunciado
+ENUNCIADO.md
+
+GUIA.MD
