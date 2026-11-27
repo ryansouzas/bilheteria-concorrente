@@ -243,10 +243,6 @@ Cada núcleo também teria a sua própria memória, então as poltronas precisar
 compartilhado. O paralelismo ajudaria em trabalho pesado de CPU. Aqui, quase todo o tempo é espera
 pela operadora, e a concorrência numa linha só já basta.
 
-## Vídeo de apresentação
-
-Link do vídeo: *em breve*
-
 ## Autor
 
 | Nome | GitHub | Parte |
